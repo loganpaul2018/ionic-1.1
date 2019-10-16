@@ -1,0 +1,81 @@
+{"results":[
+    {
+    "id":1,
+    "Nombre":"Gonzalo",
+    "Apellidos":"Sanchez Domínguez",
+    "Provincia":"Cadiz",
+    "Ciudad":"Ubrique",
+    "Telefono":"669289289"
+    },
+
+    {
+    "id":2,
+    "Nombre":"Estrella",
+    "Apellidos":"Fernández Sánchez",
+    "Provincia":"Cadiz",
+    "Ciudad":"El Bosque",
+    "Telefono":"669590678"
+    },
+
+    {
+    "id":3,
+    "Nombre":"Fernando",
+    "Apellidos":"Martínez Herrera",
+    "Provincia":"Cadiz",
+    "Ciudad":"Arcos de la Frontera",
+    "Telefono":"669654223"
+    },
+
+    {
+    "id":4,
+    "Nombre":"José José",
+    "Apellidos":"García Juaréz",
+    "Provincia":"Huelva",
+    "Ciudad":"Huelva",
+    "Telefono":"669345221"
+    },
+
+    {
+    "id":5,
+    "Nombre":"Antonio",
+    "Apellidos":"Pérez Domínguez",
+    "Provincia":"Granada",
+    "Ciudad":"Carchuna",
+    "Telefono":"669289288"
+    },
+
+    {
+    "id":6,
+    "Nombre":"Arturo",
+    "Apellidos":"Hernández Trujillo",
+    "Provincia":"Córdoba",
+    "Ciudad":"Córdoba",
+    "Telefono":"669732987"
+    },
+
+    {
+    "id":7,
+    "Nombre":"Isaac",
+    "Apellidos":"Sánchez Gonzalez",
+    "Provincia":"Málaga",
+    "Ciudad":"Málaga",
+    "Telefono":"669197456"
+    },
+
+    {
+    "id":7,
+    "Nombre":"Ángel",
+    "Apellidos":"Muñoz Castellón",
+    "Provincia":"Jaén",
+    "Ciudad":"Jaén",
+    "Telefono":"669197454"
+    },
+    {
+    "id":7,
+    "Nombre":"Alejandro",
+    "Apellidos":"Gómez Rodríguez",
+    "Provincia":"Sevilla",
+    "Ciudad":"Sevilla",
+    "Telefono":"650286343"
+    }
+]}
